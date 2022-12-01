@@ -4,4 +4,4 @@ This project is a repository that represents a project with two distinct project
 
 ### Execute Demo
 To run demo perform the following command:
-`srcclr --url https://github.com/dmedeiros-veracode/sca-agent-multi-project.git --recursive`
+`srcclr --url https://github.com/dmedeiros-veracode/sca-agent-demo-multi-project.git --recursive`
